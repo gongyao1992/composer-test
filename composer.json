@@ -1,0 +1,17 @@
+{
+    "name": "gongyao1992/composer-test",
+    "autoload": {
+        "psr-4": {
+            "App\\": "App/"
+        }
+    },
+    "authors": [
+        {
+            "name": "gongyao",
+            "email": "gongyao1992@qq.com"
+        }
+    ],
+    "require": {
+        "easyswoole/phpunit": "^1.1"
+    }
+}
